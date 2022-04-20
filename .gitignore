@@ -31,3 +31,17 @@ yarn-error.log*
 
 # turbo
 .turbo
+
+.pnp.*
+.yarn/*
+.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.turbo
+
+build/**
+dist/**
+.next/**
