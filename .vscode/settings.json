@@ -4,5 +4,6 @@
         "nextjs",
         "Turborepo",
         "Vercel"
-    ]
+    ],
+    "typescript.tsdk": "node_modules/typescript/lib"
 }

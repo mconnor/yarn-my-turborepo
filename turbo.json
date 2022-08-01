@@ -7,6 +7,9 @@
     "lint": {
       "outputs": []
     },
+    "fix": {
+      "outputs": []
+    },
     "dev": {
       "cache": false
     }
